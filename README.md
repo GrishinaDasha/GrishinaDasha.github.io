@@ -1,3 +1,3 @@
 # GrishinaDasha
-Мои работы
-https://grishinadasha.github.io/Omnifood/
+Мои работы:   
+[https://grishinadasha.github.io/Omnifood/]
